@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    height: 57px;
+    width: 1283px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 25px;
+}
+nav > a{
+    color: #db9811;
+    text-decoration: none;
+    font-family: "Raleway";
+
+}
+.link-cadastro{
+    color: #e30d0d;
+}
